@@ -10,7 +10,7 @@ public class Demo1 {
 	@Test
 	public void Test1() {
 		
-		System.out.println("Test 1 is passed");
+		
 			
 	}
 	
