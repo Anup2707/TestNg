@@ -7,7 +7,7 @@ public class Demo5 {
 	
 	@Test(groups = {"Smoke"})
 	public void Test13() {
-		System.out.println("Test 13 is passed");
+		
 	}
 	
 	@Test
