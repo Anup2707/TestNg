@@ -12,7 +12,7 @@ public class Demo5 {
 	
 	@Test
 	public void Test14() {
-		System.out.println("Test 14 is passed");
+		System.out.println("Test 14 is pass");
 	}
 	
    @Test 
